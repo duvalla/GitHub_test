@@ -9,7 +9,7 @@
 #include <revision.h>
 
 const unsigned char lcdContrast = 60;
-//const unsigned char lcdContrast_test = 60;
+const unsigned char lcdContrast_test = 60;
 //const unsigned char lcdContrast_test1 = 60;
 
 const char machineName[NAME_LENGTH] = "               ";
